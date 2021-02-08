@@ -11,16 +11,16 @@
 3. The program cycles to the next yoga pose once the 15 seconds have been completed.
 
 ## How we built it
-Stretching to Nirvana leverages the mighty powerful Tensorflow.js Machine Learning framework throughout all steps, with different libraries being used for different steps:
+'Stretching to Nirvana' leverages the mighty powerful **Tensorflow.js** Machine Learning framework throughout all steps, with different libraries being used for different steps:
 
-1. Pose-estimation: Pose-estimation or the skeletal tracking that you can see in the interface was implemented using the PoseNet Library. PoseNet conveniently provided us the x-y coordinates of the most prominent joints in the body (elbows, knees, etc.). The coordinates were used to display the skeletal figure you can see on the screen and to track yoga poses made by the user.
+1. Pose-estimation: Pose-estimation or the skeletal tracking that you can see in the interface was implemented using the **PoseNet** Library. PoseNet conveniently provided us the x-y coordinates of the most prominent joints in the body (elbows, knees, etc.). The coordinates were used to display the skeletal figure you can see on the screen and to track yoga poses made by the user.
 
-2. Yoga Pose Classification: The users' movements were fed into a Classification Machine Learning Neural Network which was implemented using the ml5.js Library. X-Y coordinates of joints provided by PoseNet were analyzed to see if the user is performing the required Yoga pose.
+2. Yoga Pose Classification: The users' movements were fed into a Classification Machine Learning Neural Network which was implemented using the **ml5.js** Library. X-Y coordinates of joints provided by PoseNet were analyzed to see if the user is performing the required Yoga pose.
 
 ## How We Intend to Upgrade
-Add more poses
-Adding visual cues and suggestions to help correct poses and form whenever the user performs a stretch incorrectly
-Adding a socially interactive aspect to the web app where friends and family can choose to do stretches together, in an effort to further help improve the well-being of users.
+- Add more poses
+- Adding visual cues and suggestions to help correct poses and form whenever the user performs a stretch incorrectly
+- Adding a socially interactive aspect to the web app where friends and family can choose to do stretches together, in an effort to further help improve the well-being of users.
 
 # Click this [link](https://editor.p5js.org/ahmadobeidallah/full/m6-bbXvra) to try it out
 
