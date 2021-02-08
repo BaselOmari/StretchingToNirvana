@@ -16,9 +16,9 @@ var warrior_img;
 let timer = 15;
 
 function setup() {
-  triangle_img = loadImage('Triangle.jpg');
-  mountain_img = loadImage('Mountain.jpg');
-  warrior_img = loadImage('Warrior.png');
+  triangle_img = loadImage('YogaPoseImages/Triangle.jpg');
+  mountain_img = loadImage('YogaPoseImages/Mountain.jpg');
+  warrior_img = loadImage('YogaPoseImages/Warrior.png');
   
   createCanvas(1200, 480);
   video = createCapture(VIDEO);
@@ -34,9 +34,9 @@ function setup() {
   }
   brain = ml5.neuralNetwork(options);
   const modelInfo = {
-    model: 'model.json',
-    metadata: 'model_meta.json',
-    weights: 'model.weights.bin',
+    model: 'NeuralNetworkModel/model.json',
+    metadata: 'NeuralNetworkModel/model_meta.json',
+    weights: 'NeuralNetworkModel/model.weights.bin',
   };
   brain.load(modelInfo, brainLoaded);
 }
