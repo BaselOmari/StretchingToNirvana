@@ -22,6 +22,6 @@
 - Adding visual cues and suggestions to help correct poses and form whenever the user performs a stretch incorrectly
 - Adding a socially interactive aspect to the web app where friends and family can choose to do stretches together, in an effort to further help improve the well-being of users.
 
-***********Click this [link](https://editor.p5js.org/ahmadobeidallah/full/m6-bbXvra) to try it out***********
+**Click this [link](https://editor.p5js.org/ahmadobeidallah/full/m6-bbXvra) to try it out**
 
 
