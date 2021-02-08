@@ -4,6 +4,9 @@
 
 **Click this [link](https://editor.p5js.org/ahmadobeidallah/full/m6-bbXvra) to try it out**
 
+![Live Demonstration](https://github.com/BaselOmari/StretchingToNirvana/blob/main/original.gif)
+*Live Demonstration*
+
 ## What it does
 'Stretching to Nirvana' is a smart personal trainer that uses Artificial Intelligence and Machine Learning to help you with your yoga exercises during the lockdown and make them more fun and effective. The project tracks your movements in real-time, which are then fed into a machine learning model that instructs the user whether he or she is doing the movements correctly. The program cycles through a set of Yoga poses (Triangle Pose, Warrior Pose, etc.) and effectively helps you perform these poses, by detecting whether the user is or is not following the provided guideline.
 
