@@ -5,6 +5,7 @@
 **Click this [link](https://editor.p5js.org/ahmadobeidallah/full/m6-bbXvra) to try it out**
 
 ![Live Demonstration](https://github.com/BaselOmari/StretchingToNirvana/blob/main/original.gif)
+
 *Live Demonstration*
 
 ## What it does
