@@ -4,7 +4,7 @@
 
 **Click this [link](https://editor.p5js.org/BasselOmari/full/tPKsnBSlU) to try it out**
 
-![Live Demonstration](https://github.com/BaselOmari/StretchingToNirvana/blob/main/original.gif)
+![Live Demonstration](https://github.com/BaselOmari/StretchingToNirvana/blob/main/Stretching%20to%20Nirvana.gif)
 
 *Live Demonstration*
 
