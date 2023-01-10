@@ -2,7 +2,7 @@
 
 #### Are you under 35 but your back feels like it's 60? Stretching to Nirvana promises to help make your back and knees feel younger, with a web app that guides you visually to reverse time on the hurtin'.
 
-**Click this [link](https://editor.p5js.org/ahmadobeidallah/full/m6-bbXvra) to try it out**
+**Click this [link](https://editor.p5js.org/BasselOmari/full/tPKsnBSlU) to try it out**
 
 ![Live Demonstration](https://github.com/BaselOmari/StretchingToNirvana/blob/main/original.gif)
 
